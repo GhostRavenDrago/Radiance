@@ -12,10 +12,10 @@ public class Main {
         linkedList.display();
     }
 }
-echo "# Radiance" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/GhostRavenDrago/Radiance.git
-git push -u origin main
+// echo "# Radiance" >> README.md
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin https://github.com/GhostRavenDrago/Radiance.git
+// git push -u origin main
