@@ -37,7 +37,6 @@ class LinkedList {
         newNode.next = head;
         head = newNode;
     }
-
     // Delete a node with a given value
     public void delete(int data) {
         if (head == null) return;
