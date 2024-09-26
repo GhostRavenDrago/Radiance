@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Freestyle_1One",
+            "request": "launch",
+            "mainClass": "Freestyles.Freestyle_1One",
+            "projectName": "Radiance_2b121ca7"
+        },
+        {
+            "type": "java",
+            "name": "King",
+            "request": "launch",
+            "mainClass": "King",
+            "projectName": "Radiance_2b121ca7"
+        },
+        {
+            "type": "java",
+            "name": "Q_1One",
+            "request": "launch",
+            "mainClass": "LeetCode_Top150_IC.Array_String.Q_1One",
+            "projectName": "Radiance_2b121ca7"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "LinkedLDS.Main",
+            "projectName": "Radiance_2b121ca7"
+        }
+    ]
+}
